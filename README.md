@@ -1,1 +1,1 @@
-C - printf task done in collaboration with Kachi
+C - printf task done in conjunction with Kachi
